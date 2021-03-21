@@ -1,0 +1,9 @@
+ID,Name,Designator,Footprint,Quantity,Source Link
+1,.1uF,"C1, C2, C3, C8, C21, C22",C0805,6,
+2,10nF,"C5, C6, C7, C9, C10, C11",C0805,6,
+3,.33uF,"C4, C12, C13, C14, C15, C16",C0805,6,
+4,X4611WV-04I-C28D40,"H1, H2, H3, H4, H5",HDR-TH_4P-P2.00-V-M,5,https://www.taydaelectronics.com/connectors-sockets/pin-headers/40-pin-2-00-mm-single-row-pin-header-strip.html
+5,556,"U1, U3, U5",SO-14-WIDE,3,
+6,CD40106BM,"U2, U4, U6",SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL,3,
+7,standoff,,1/4” 4-40,2,https://www.mouser.com/ProductDetail/761-2053-440-AL-7
+8,screw,,3/16” 4-40,4,
